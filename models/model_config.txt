@@ -1,0 +1,9 @@
+inputFeatures=7
+hiddenLayers=8
+learningRate=0.001
+epochs=500
+hiddenActivation=RELU
+outputActivation=SIGMOID
+loss=CROSS_ENTROPY
+threshold=0.5
+randomSeed=42
